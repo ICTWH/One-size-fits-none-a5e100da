@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+
+.naam{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+}
+
+.blauw{
+    color: blue;
+}
+
+.serie{
+    font-size: 18px;
+    color: red;
+}
+
+.hobby{
+    font-size: 18px;
+    color: red;
+}
